@@ -22,8 +22,8 @@ I am a dedicated and enthusiastic developer with a strong foundation in web deve
 
 - Email: yakkeshwar@gmail.com
 - LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/yakkeshwar-r-945877202/)
-- Twitter: [Your Twitter Handle[](https://twitter.com/RYakkeshwar)
-- Portfolio: [Your Portfolio Website](https://yakkeshwarr.000webhostapp.com/)
+- Twitter: [Twitter](https://twitter.com/RYakkeshwar)
+- Portfolio: [Portfolio Website](https://yakkeshwarr.000webhostapp.com/)
 
 Feel free to reach out to me if you have any questions, opportunities, or just want to connect!
 
