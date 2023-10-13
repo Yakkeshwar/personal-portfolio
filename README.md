@@ -1,7 +1,33 @@
-# portfolio-v2
+# Portfolio
 
-Personal website, you can visit it at [Yakkeshwar R](https://yakkeshwarr.000webhostapp.com/).  
+This is the repository for my personal portfolio website. The website is currently hosted at [https://yakkeshwarr.000webhostapp.com/](https://yakkeshwarr.000webhostapp.com/). 
 
-It's just static JS/CSS, hosted for free using Github Pages.
+## Introduction
 
+Welcome to my portfolio! I am passionate about creating innovative solutions and bringing ideas to life through technology. This website showcases some of my projects and provides information about my skills, experiences, and interests.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+
+## About Me
+
+I am a dedicated and enthusiastic developer with a strong foundation in web development and a passion for learning new technologies. My goal is to contribute to innovative projects and collaborate with teams that are working on exciting and challenging initiatives.
+
+## Contact Information
+
+- Email: yakkeshwar@gmail.com
+- LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/yakkeshwar-r-945877202/)
+- Twitter: [Your Twitter Handle[](https://twitter.com/RYakkeshwar)
+- Portfolio: [Your Portfolio Website](https://yakkeshwarr.000webhostapp.com/)
+
+Feel free to reach out to me if you have any questions, opportunities, or just want to connect!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
